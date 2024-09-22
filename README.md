@@ -1,6 +1,6 @@
 # CodecMSS_Demo_Android13_v2.0
 This program can encrypt or decrypt texts in any language and it is only on your device 
-It works on devices with Android version >=11
+It works on devices with Android version >9
 
 ​DEMO version
 ​Generate a unique customer code.
