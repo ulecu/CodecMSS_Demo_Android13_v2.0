@@ -30,4 +30,3 @@ This program can encrypt or decrypt texts in any language and it is only on your
 ​2. Enter the personal key (the same key used by the sender).
 ​3. Press the decryption button and the decrypted text will be displayed.
 ​4. Press the EXIT button.
-​======================================================================================
